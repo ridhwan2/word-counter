@@ -9,7 +9,6 @@ Console.ForegroundColor = ConsoleColor.DarkGray;
 Console.WriteLine();
 Console.WriteLine(length + " words");
 
-
 Thread.Sleep(5000);
 Console.ForegroundColor = ConsoleColor.DarkRed;
 Console.WriteLine();
